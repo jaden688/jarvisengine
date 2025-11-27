@@ -78,6 +78,12 @@ The engine operates on a set of non-negotiable rules to ensure stability and int
 
 ---
 
+## 📄 License
+
+This project is licensed under a proprietary commercial license. See the [LICENSE](LICENSE) file for details.
+
+---
+
 ## © Copyright
 
 **Creator:** Jaden Lindenbach  

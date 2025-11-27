@@ -47,5 +47,26 @@
     "default_backend_id": "ollama-local",
     "drive_type": null,
     "tags": []
+  },
+  "The Gremlin CNC": {
+    "persona_file": "The_Gremlin_CNC_Full.json",
+    "default_memory_mode": "HYBRID",
+    "default_backend_id": "ollama-local",
+    "drive_type": null,
+    "tags": ["cnc", "tools", "gremlin"]
+  },
+  "Twitch": {
+    "persona_file": "Twitch_Full.json",
+    "default_memory_mode": "HYBRID",
+    "default_backend_id": "ollama-local",
+    "drive_type": null,
+    "tags": ["stream", "fast", "co-pilot"]
+  },
+  "SparkByte": {
+    "persona_file": "SparkByte_Full.json",
+    "default_memory_mode": "HYBRID",
+    "default_backend_id": "ollama-local",
+    "drive_type": null,
+    "tags": ["quirky", "sassy", "playful", "supportive", "witty", "jl-engine-integrated"]
   }
 }
